@@ -1,16 +1,14 @@
 <table id="content_princip">
 	<tr>
-		<td>
-			<th>Section</th>
-		</td>
-		<td>
-			<th>Nombre de posts</th>
-		</td>
-		<td>
-			<th>Non lus</th>
-		</td>
-		<td>
-			<th>Dernier post</th>
-		</td>
+		<th>Section</th>
+		<th>Posts</th>
+		<th>Non lus</th>
+		<th>Dernier post</th>
+	</tr>
+	<tr>
+		<td><p><span class="new">New </span><a href="">Dummy section</a></p></td>
+		<td><p>5</p></td>
+		<td><p>3</p></td>
+		<td><p>Dummy post test</p></td>
 	</tr>
 </table>

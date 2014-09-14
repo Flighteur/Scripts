@@ -14,5 +14,6 @@
 		<section id="principale">
 			<?php include "content.php"; ?>
 		</section>
+		<?php include "footer.php";?>
 	</body>
 </html>

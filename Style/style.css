@@ -1,0 +1,8 @@
+table {border-collapse: collapse;}
+
+#content_princip th, #content_princip td {border: 1px solid black;}
+
+#content_princip td {
+	padding-left: 2em;
+	padding-right: 2em;
+}
