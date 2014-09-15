@@ -1,3 +1,5 @@
+html, body{margin:0; padding:0; height: 100%;}
+
 table {border-collapse: collapse;}
 
 #content_princip th, #content_princip td {border: 1px solid black;}
@@ -5,4 +7,25 @@ table {border-collapse: collapse;}
 #content_princip td {
 	padding-left: 2em;
 	padding-right: 2em;
+}
+
+#content_princip {width: 100%;}
+
+#wrapper {
+	min-height:100%;
+	position:relative;
+}
+
+header {
+	padding:10px;
+	border-bottom: 2px solid gray;
+}
+
+
+footer {
+	border-top: 2px solid gray;
+	width:100%;
+	position:absolute;
+	bottom:0;
+	left:0;
 }
