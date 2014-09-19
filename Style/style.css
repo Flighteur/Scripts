@@ -9,7 +9,7 @@ table {border-collapse: collapse;}
 	padding-right: 2em;
 }
 
-#content_princip {width: 100%;}
+#content_princip {min-width: 100%;}
 
 #wrapper {
 	min-height:100%;
@@ -20,7 +20,6 @@ header {
 	padding:10px;
 	border-bottom: 2px solid gray;
 }
-
 
 footer {
 	border-top: 2px solid gray;

@@ -1,4 +1,7 @@
-<?php include "var.php"; ?>
+<?php
+include "var.php";
+include "init.php";
+?>
 
 <!DOCTYPE html>
 <html>
