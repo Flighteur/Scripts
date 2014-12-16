@@ -1,5 +1,4 @@
 <?php
-<<<<<<< HEAD
     define('DB_HOST', '127.0.0.1'); // IP/URL of the SQL Server
     // define the user to connect to the SQL Server
     define('DB_ROOT_USER', 'root');
@@ -51,5 +50,4 @@
 		die('Erreur : '.$e->getMessage());
 	}
 }
->>>>>>> origin/master
 ?>
